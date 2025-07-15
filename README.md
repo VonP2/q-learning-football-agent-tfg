@@ -11,4 +11,4 @@ The goal is to explore reinforcement learning techniques applied to agent in foo
 
 The final results demonstrate the agent’s capability to learn basic football tactics, though there is room for improvement in strategy complexity and environment realism.
 
-For a complete description of the methodology, experiments, and conclusions, please refer to the thesis document: `TFG_Memoria.pdf`
+For a complete description of the methodology, experiments, and conclusions, please refer to the thesis document: `TFG_MEMO.pdf`
