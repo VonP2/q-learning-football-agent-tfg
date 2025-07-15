@@ -1,0 +1,1 @@
+{"epsilon": 0.01, "epsilon_min": 0.01, "epsilon_decay": 0.999884, "episode_counter": 100000, "episodes_per_update": 1}
